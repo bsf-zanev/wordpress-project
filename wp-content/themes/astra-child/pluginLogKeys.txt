@@ -1,0 +1,30 @@
+Array(All Plugins) =>
+Array(Current Plugin) =>
+
+id
+slug
+plugin
+new_version
+url
+package
+icons                               (Array)
+banners                         (Array)
+banners_rtl                   (Array)
+requires
+update-supported
+Name
+PluginURI
+Version
+Description
+Author
+AuthorURI
+TextDomain
+DomainPath
+Network
+RequiresWP
+RequiresPHP
+UpdateURI
+Title
+AuthorName
+
+NEW-LINE-NEW-PLUGIN-NEW-LINE-NEW-PLUGIN-NEW-LINE-NEW-PLUGIN-NEW-LINE
